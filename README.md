@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 <br>I’m an **Electronics and Communication Engineering student** with a growing interest in **Data Science and Machine Learning**. My interest in data led me to explore how raw and messy data can be transformed into meaningful insights that support better business decisions.<br><br>I have built my foundation in **Python, SQL, Statistics, Machine Learning, NLP, Deep Learning, Excel, and R Programming**, and I’m continuously strengthening these skills through hands-on projects. I enjoy working with data—from **cleaning and exploring it to building predictive models and interpreting results**.<br><br>Currently, I’m focused on developing practical **Machine Learning projects** where I can apply what I’ve learned to real-world problems, understand patterns in historical data, and turn them into **useful information and actionable insights for businesses**.<br><br>I’m particularly interested in opportunities where I can continue learning, work with real-world data, and grow toward a career in **Data Science and Machine Learning**.<br>
 
 
